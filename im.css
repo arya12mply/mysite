@@ -1,0 +1,46 @@
+body{
+background:
+url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFBvYLzJXg6OKR7zgOdXQB4S5tLLxAZevCeg&usqp=CAU');
+background-size: cover;
+background-repeat: no-repeat;
+}
+#frm{
+    margin-left: 400px;
+    margin-top :200px;
+    margin-right: 400px;
+    background-color:white;
+    border-radius: 2px;
+    padding :50px 100px;
+    color: black;
+}
+#btn{
+    background-color: blue;
+    color :white;
+    margin-left: 200px;
+}
+nav ul{
+    float: right;
+}
+nav ul li
+{
+display: inline;
+color: black;
+margin :0 5px;
+}
+nav ul a{
+    color:white;
+    font-size: 17px;
+    padding:7px 13px;
+    text-decoration: none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    position: fixed;
+
+}
+nav ul li button{
+    background-color: green;
+}
+intro h1{
+    text-align: center;
+    color : white;
+}
